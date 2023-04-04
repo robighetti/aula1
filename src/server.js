@@ -16,6 +16,10 @@ app.use(express.json())
   valor: 10.00
   }
 */
+
+/**
+ * alteração de qualquer coisa feito por qualquer pessoa pode ser refletido no github
+ */
 const cart = []
 
 /*
